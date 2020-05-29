@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name atmel)(type Legacy)(uri /home/ayik/Repo/Pcb/kicad-library/library/atmel.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri /home/ayik/Repo/Pcb/kicad-library/library/power.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri /home/ayik/Repo/Pcb/kicad-library/library/device.lib)(options "")(descr ""))
+  (lib (name conn)(type Legacy)(uri /home/ayik/Repo/Pcb/kicad-library/library/Connector.lib)(options "")(descr ""))
+  (lib (name mechanical)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Mechanical.lib)(options "")(descr ""))
+  (lib (name pwr_flag)(type Legacy)(uri /home/ayik/Repo/Pcb/kicad-library/library/power.lib)(options "")(descr ""))
+)
